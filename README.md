@@ -1,1 +1,0 @@
-# trade-scheme-roi-calculator
